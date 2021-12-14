@@ -1,9 +1,9 @@
-# Hey there! :wave:  
+### Hey there! :wave:  
 
-    Nice to meet you! I'm Bruno Dias, a Brazilian developer! :brazil: 
-    I'm currently based in Florianópolis, Santa Catarina. 
+Nice to meet you! I'm Bruno Dias, a Brazilian developer! :brazil: 
+I'm currently based in Florianópolis, Santa Catarina. 
 
-## :thinking: What do I do?  
+### :thinking: What do I do?  
 
 - :computer: I'm a Fullstack Web and Mobile Developer, but I'm also interested in:
   - :video_game: Game Development
