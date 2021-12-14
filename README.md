@@ -25,3 +25,10 @@ I'm currently based in Florianópolis, Santa Catarina.
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoDG&count_private=true&show_icons=true&theme=radical&hide_rank=false" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoDG" />
 </div>
+
+### My Articles
+
+:newspaper: Check out my recent articles on Medium!
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@brunodg/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@brunodg/0" alt="Recent Article 0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@brunodg/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@brunodg/1" alt="Recent Article 1">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@brunodg/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@brunodg/2" alt="Recent Article 2">
