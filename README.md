@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hey there! :wave:  
 
-<!--
-**BrunoDG/BrunoDG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    Nice to meet you! I'm Bruno Dias, a Brazilian developer! :brazil: 
+    I'm currently based in Florianópolis, Santa Catarina. 
 
-Here are some ideas to get you started:
+## :thinking: What do I do?  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :computer: I'm a Fullstack Web and Mobile Developer, but I'm also interested in:
+  - :video_game: Game Development
+  - :musical_keyboard: Audio Development
+  - :musical_score: Music Production
+- :earth_americas: Right now, I'm starting to share my knowledge with the world through my Twitch channel and my blogs.
+
+- :mailbox: How to find me:
+  - :bulb: [Medium Articles](https://medium.com/@brunodg)
+  - :office: [Linkedin](https://linkedin.com/in/brunodg89)
+  - :speaker: [Alpha State Drive Podcast on Spotify](https://open.spotify.com/show/42Hxk1uWkRBnHkweyqli6b)
+  - :globe_with_meridians: [My Website (in construction)](http://beveldrive.com.br)
+  - :jigsaw: [Itch.io (Still empty, but there will be more!)](https://beveldrive.itch.io)
+  - :books: [Amazon Author Page](https://www.amazon.com/~/e/B08X7HRTZL)
+  - :open_book: [Wattpad (Antigen: A jornada de Joseph)](https://www.wattpad.com/story/276179036-antigen-a-jornada-de-joseph)
+
+<div align="center">
+    <a href="http://github.com/brunodg">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoDG&count_private=true&show_icons=true&theme=radical&hide_rank=false" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoDG" />
+</div>
