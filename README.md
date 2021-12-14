@@ -12,6 +12,7 @@ I'm currently based in Florianópolis, Santa Catarina.
 - :earth_americas: Right now, I'm starting to share my knowledge with the world through my Twitch channel and my blogs.
 
 - :mailbox: How to find me:
+  - :headphones: [My Twitch Channel](http://twitch.tv/brunogatts) 
   - :bulb: [Medium Articles](https://medium.com/@brunodg)
   - :office: [Linkedin](https://linkedin.com/in/brunodg89)
   - :speaker: [Alpha State Drive Podcast on Spotify](https://open.spotify.com/show/42Hxk1uWkRBnHkweyqli6b)
