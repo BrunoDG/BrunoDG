@@ -8,7 +8,6 @@ I'm currently based in Florianópolis, Santa Catarina.
 - :computer: I'm a Fullstack Web and Mobile Developer, but I'm also interested in:
   - :video_game: Game Development
   - 🖥️ Web Development
-  - 📱 Mobile Development
   - :musical_keyboard: Audio Development
   - :musical_score: Music Production
 - :earth_americas: Right now, I'm starting to share my knowledge with the world through my Twitch channel and my blogs.
