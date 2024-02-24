@@ -5,7 +5,7 @@ I'm currently based in Rio de Janeiro, Brazil, although the world is out there t
 
 <div align="center">
   <a href="https://github.com/brunodg">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunodgshow_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunodg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodg&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
