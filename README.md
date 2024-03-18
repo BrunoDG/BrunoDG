@@ -26,15 +26,7 @@ I'm currently based in Rio de Janeiro, Brazil, although the world is out there t
   - :globe_with_meridians: [My Website (in construction)](http://beveldrive.com.br)
   - :jigsaw: [Itch.io](https://beveldrive.itch.io)
   - :books: [Amazon Author Page](https://www.amazon.com/~/e/B08X7HRTZL)
- <!-- - :open_book: [Wattpad (Antigen: A jornada de Joseph)](https://www.wattpad.com/story/276179036-antigen-a-jornada-de-joseph) -->
-
-<!--
-<div align="center">
-    <a href="http://github.com/brunodg">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoDG&count_private=true&show_icons=true&theme=radical&hide_rank=false" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoDG" />
-</div>
--->
+  - :open_book: [Wattpad (Antigen: A jornada de Joseph)](https://www.wattpad.com/story/276179036-antigen-a-jornada-de-joseph)
 
 ### My Articles
 
